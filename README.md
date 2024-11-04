@@ -2,8 +2,10 @@
 
 ----
 
-## PROJECT TITTLE: CAPSTONE SALES DATA
+## PROJECT TITLE: CAPSTONE SALES DATA
+
 ----
+
 [PROJECT OVERVIEW](#project-overview)
 
 [DATA SOURCES](#data-sources)
