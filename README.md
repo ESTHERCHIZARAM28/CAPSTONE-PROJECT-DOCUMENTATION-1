@@ -259,6 +259,9 @@ Pivort tables was used to summarize the data
 
   - SOCKS
 
+![image](https://github.com/user-attachments/assets/67d53449-2e4f-4d57-9d13-24ff5d40dcfb)
+
+  - JACKET 
 
 
 
