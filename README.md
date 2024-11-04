@@ -78,6 +78,9 @@ This analysis is meant to answer the followimg questions:
 ```
 Total Sales =SUM(H2:H9922)
 ```
+````
+Average Sales = =AVERAGE(H2:H9922)
+````
 
 
 
