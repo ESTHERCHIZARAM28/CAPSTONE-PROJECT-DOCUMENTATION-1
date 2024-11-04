@@ -323,7 +323,7 @@ The lowest selleing product is jacket with Five Thousand Four Hundred and Fifty-
 
  - Socks was only sold at South and West Region,
 
--Jacket was only sold at North and East Region.
+ - Jacket was only sold at North and East Region.
    
 
 
