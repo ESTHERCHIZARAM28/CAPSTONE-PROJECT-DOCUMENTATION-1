@@ -216,7 +216,9 @@ having MAX(OrderDate)<DATEADD(QUARTER,-1,GETDATE());
 #### PIVORT TABLES
 Pivort tables was used to summarize the data
 
+
 - TOTAL SALES BY PRODUCT
+
   ![image](https://github.com/user-attachments/assets/0580f9a6-23b2-4283-916a-8cb84b393b50)
 
 - TOTAL SALES BY REGION
