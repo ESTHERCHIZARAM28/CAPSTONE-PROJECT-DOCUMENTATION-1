@@ -1,5 +1,4 @@
-# CAPSTONE-PROJECT-DOCUMENTATION
-This is the documentation of my LITA capstone project. These project includes two data sheets; Sales Data and Customer Data.
+# CAPSTONE-PROJECT-DOCUMENTATION 1
 
 ----
 
@@ -28,9 +27,8 @@ This is the documentation of my LITA capstone project. These project includes tw
 ----
 
 ### PROJECT OVERVIEW
- In this project, you are tasked with analyzing the sales performance of a retail store. 
-You will need to explore sales data to uncover key insights such as top-selling products, regional 
-performance, and monthly sales trends. The goal is to produce an interactive Power BI 
+This project aims at analyzing the sales performance of a retail store. 
+Key insights such as top-selling products, performance, and monthly sales trends  regional are to be uncovered at the end of the project. The goal is to produce an interactive Power BI 
 dashboard that highlights these findings.
 
 ----
@@ -45,6 +43,15 @@ The primary source of data used in the projects are data.sales.cv and this is an
    1. For Data cleaning
    2. For Data Analysis
    3. For Data visualization
+
+- SQL - Structured Query Language for Quering of Data
+  
+- Power Bi 
+   1.business analysis
+   2.visualization
+   3.creating intereative dashbord.
+  
+- GitHub for Portfolio Building
       
 ----
 
@@ -55,6 +62,8 @@ In the initial phase of the data cleaning and preparation, the following actions
    3. Data cleaning and formatting
    4. Removing duplicate
 
+----
+
 ### EXPLORATORY DATA ANALYSIS
 This analysis is meant to answer the followimg questions:
    - The average revenue 
@@ -64,6 +73,9 @@ This analysis is meant to answer the followimg questions:
    - Revenue by month
 
 ----
+
+### DATA ANALYSIS
+
 
 
 
