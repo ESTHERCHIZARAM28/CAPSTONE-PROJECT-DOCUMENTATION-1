@@ -22,7 +22,7 @@
 
 [DATA VISUALIZATION](#data-visualization)
 
-[INFERENCE](#inference)
+[INFERENCES](#inferences)
 
 [CONCLUSION](#conclusion)
 
@@ -292,7 +292,7 @@ Pivort tables was used to summarize the data
 
 ----
 
-### INFERENCE
+### INFERENCES
 
 1. OVERALL SALES: The total Sale Two Million, One Hundred and One Thounsand, Ninety, the average sales was gotten to be Two hundred and Twelve. The sum of quantity of products sold is Sixty-eight Thousand, Four Hundred and Sixty-one.
 
@@ -311,12 +311,24 @@ For the east region sales was made on on March, July and Novembetr on the year 2
 	-WEST: Total sales was Three Hundred Thousand, Three Hundred and Fourty-five . The average sales was One Hundred and Twenty-one. The sum of quantity sold was Eleven Thousand, Four Hundred. Sales was made only on April, August and December 2023. In the year 2024, sales was made on April and August.
 
 
-  
+4. TOP SELLING PRODUCTS: The highest selling product is Hat with Fifteen Thousand and Nine Hundred and Twenty-nine quantity sold,  followed by Shoe which is Forteen Thousand, Four Hundred, and two quantity sold.
+The lowest selleing product is jacket with Five Thousand Four Hundred and Fifty-two.
+- Hat was only sold at North, East and West.
+
+- Glove was only sold at South and West Region
+
+- Shirt was only sold at Northern and Eastern Region
+
+ - Shoes was only sold at South, East and West Region
+
+ - Socks was only sold at South and West Region
+
+  -Jacket was only sold at North and East Region
    
 
 
-
-
+### CONCLUSION
+After the analysis I found out that all of the products are excluded for som regions. Strategic marketing and Advertisment should be adopted to introduced some of these products to the regions where they are barely used.This will help to increase the overall sales.
 
 
 
