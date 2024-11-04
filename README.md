@@ -251,8 +251,11 @@ Pivort tables was used to summarize the data
 
   - SHIRT
 
+![image](https://github.com/user-attachments/assets/54da76b2-6ccc-4171-9c90-f927d0256e1e)
 
-  
+  - SHOES
+
+
 
 
 
