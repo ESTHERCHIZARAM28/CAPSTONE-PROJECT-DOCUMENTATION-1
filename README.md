@@ -75,7 +75,7 @@ This analysis is meant to answer the followimg questions:
 ----
 
 ### DATA ANALYSIS
-EXCEL FUNCTIONS USED FOR THE ANALYSIS
+#####EXCEL FUNCTIONS USED FOR THE ANALYSIS
 ```
 Total Sales =SUM(H2:H9922)
 ```
@@ -97,6 +97,27 @@ Total revenue for West =SUMIF(D2:D9922,D9909,H2:H9922)
 ````
 - TOTAL REVENUE BY PRODUCT
 ````
+Total Revenue for Shirt =SUMIF(C2:C9922,C4701,H2:H9922)
+````
+````
+Total Revenue for Hat =SUMIF(C2:C9922,C3,H2:H9922)
+````
+````
+Total Revenue for Gloves =SUMIF(C2:C9922,C5608,H2:H9922)
+````
+````
+Total Revenue for Jacket =SUMIF(C2:C9922,C3094,H2:H9922)
+````
+````
+Total Revenue for Shoes =SUMIF(C2:C9922,C5961,H2:H9922)
+````
+````
+Total Revenue for Socks =SUMIF(C2:C9922,C9907,H2:H9922)
+````
+
+##### SQL QUERIES USED FOR ANALYSIS
+
+
 
 
 
