@@ -142,6 +142,76 @@ Total Revenue for Socks =SUMIF(C2:C9922,C9907,H2:H9922)
 
 ##### SQL QUERIES USED FOR ANALYSIS
 
+````
+select * from [dbo].[SALES DATA (Capstone Project)]
+````
+````
+select
+  product,
+  sum(quantity * UnitPrice)  As Total_sales
+from[dbo].[SALES DATA (Capstone Project)]
+ group by
+   product 
+````
+````   
+select
+  region,
+  count(customer_id) AS Number_sales_transactions
+from
+  [dbo].[SALES DATA (Capstone Project)]
+group by
+  region
+````
+````
+select
+  product,
+  sum(quantity * UnitPrice)  AS Total_Sales
+from
+  [dbo].[SALES DATA (Capstone Project)]
+group by
+  product
+order by
+  total_sales DESC
+````
+````
+select Product,
+	sum(quantity * UnitPrice) AS totalrevenue
+from[dbo].[SALES DATA (Capstone Project)]
+group by product;
+````
+````
+select
+MONTH(orderdate) As Month,
+SUM(quantity * UnitPrice)  AS Monthly_sales
+from [dbo].[SALES DATA (Capstone Project)]
+where
+YEAR(OrderDate)=2024
+group by MONTH(OrderDate)
+order by Month;
+````
+````
+ select top 5 customer_id, 
+ sum(quantity * UnitPrice)  as Total_Purchase_Amount
+ from[dbo].[SALES DATA (Capstone Project)]
+ group by Customer_Id
+ order by 2 DESC;
+ ````
+````
+ Select region,
+ SUM(quantity * UnitPrice)  as Regional_sales,
+ (SUM(quantity * UnitPrice) /(select SUM(Total_sales) from[dbo].[SALES DATA (Capstone Project)])*100) as Regional_Sales_Rate
+ From [dbo].[SALES DATA (Capstone Project)]
+ Group by Region
+ order by Regional_Sales_Rate DESC;
+ ````
+````
+select PRODUCT, SUM(quantity * UnitPrice)  AS Sales 
+from[dbo].[SALES DATA (Capstone Project)]
+where (quantity * UnitPrice)  <=0
+group by Product
+having MAX(OrderDate)<DATEADD(QUARTER,-1,GETDATE());
+````
+
 
 
 
