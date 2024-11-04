@@ -212,6 +212,9 @@ group by Product
 having MAX(OrderDate)<DATEADD(QUARTER,-1,GETDATE());
 ````
 
+### DATA SUMMARIZATION
+#### PIVORT TABLES
+Pivort tables was used to summarize the data
 
 
 
