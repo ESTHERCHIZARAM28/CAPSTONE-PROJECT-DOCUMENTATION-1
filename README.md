@@ -282,6 +282,7 @@ Pivort tables was used to summarize the data
 
  - WEST
 
+![image](https://github.com/user-attachments/assets/a03780c1-8ffd-4e25-b993-1b5ec0719227)
 
 
 
