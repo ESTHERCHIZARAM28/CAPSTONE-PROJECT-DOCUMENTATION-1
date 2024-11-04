@@ -222,6 +222,13 @@ Pivort tables was used to summarize the data
   ![image](https://github.com/user-attachments/assets/0580f9a6-23b2-4283-916a-8cb84b393b50)
 
 - TOTAL SALES BY REGION
+
+  ![image](https://github.com/user-attachments/assets/318c4645-c893-457c-ad9e-a0c38420967d)
+
+- TOTAL SALES BY MONTH
+
+  
+
   
 
 
