@@ -227,6 +227,11 @@ Pivort tables was used to summarize the data
 
 - TOTAL SALES BY MONTH
 
+  ![image](https://github.com/user-attachments/assets/85dff39f-6b16-43dd-94b0-fc755a2bba7c)
+
+  
+
+
   
 
   
