@@ -247,6 +247,9 @@ Pivort tables was used to summarize the data
 
   - GLOVES
 
+![image](https://github.com/user-attachments/assets/e001e7ed-e38b-49c9-a765-470adf7577b6)
+
+  - SHIRT
 
 
   
