@@ -68,9 +68,9 @@ In the initial phase of the data cleaning and preparation, the following actions
 
 ### EXPLORATORY DATA ANALYSIS
 This analysis is meant to answer the followimg questions:
-   - The average revenue 
-   - Total revenue generated in each region
-   - The highest selling locations
+   - The Total Sales Performance
+   - Total sales generated in each region
+   - The highest selling products
    - Sales performance of each region
    - Revenue by month
 
