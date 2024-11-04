@@ -278,6 +278,11 @@ Pivort tables was used to summarize the data
 
  - SOUTH
 
+![image](https://github.com/user-attachments/assets/6962dc9c-a198-4402-b750-e7c6b12039eb)
+
+ - WEST
+
+
 
 
 
