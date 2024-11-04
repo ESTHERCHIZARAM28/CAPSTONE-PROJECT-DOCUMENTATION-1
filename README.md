@@ -82,6 +82,27 @@ Total Sales =SUM(H2:H9922)
 ````
 Average Sales =AVERAGE(H2:H9922)
 ````
+
+- AVERAGE SALES PER PRODUCT
+````
+Average sales for Shirt =AVERAGEIF(C2:C9922,C1986,H2:H9922)
+````
+````
+Average sales for Hat =AVERAGEIF(C2:C9922,C2,H2:H9922)
+````
+````
+Average sales for Gloves =AVERAGEIF(C2:C9922,C5269,H2:H9922)
+````
+````
+Average sales for Jacket = AVERAGEIF(C2:C9922,C3777,H2:H9922)
+````
+````
+Average sales for Shoes =AVERAGEIF(C2:C9922,C6530,H2:H9922)
+````
+````
+Average sales for Socks =AVERAGEIF(C2:C9922,C9899,H2:H9922)
+````
+
 - TOTAL REVENUE BY REGION
 ````
 Total Revenue for East =SUMIF(D2:D9922,D2,H2:H9922)
