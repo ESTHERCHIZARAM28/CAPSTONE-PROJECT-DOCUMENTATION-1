@@ -315,15 +315,15 @@ For the east region sales was made on on March, July and Novembetr on the year 2
 The lowest selleing product is jacket with Five Thousand Four Hundred and Fifty-two.
 - Hat was only sold at North, East and West.
 
-- Glove was only sold at South and West Region
+- Glove was only sold at South and West Region,
 
-- Shirt was only sold at Northern and Eastern Region
+- Shirt was only sold at Northern and Eastern Region,
 
- - Shoes was only sold at South, East and West Region
+ - Shoes was only sold at South, East and West Region,
 
- - Socks was only sold at South and West Region
+ - Socks was only sold at South and West Region,
 
-  -Jacket was only sold at North and East Region
+-Jacket was only sold at North and East Region.
    
 
 
