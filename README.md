@@ -54,7 +54,7 @@ The primary source of data used in the projects are data.sales.cv and this is an
   
    2.visualization
   
-   3.creating intereative dashbord.
+   3.creating intereative dashboard.
   
 - GitHub for Portfolio Building
       
