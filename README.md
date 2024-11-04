@@ -243,6 +243,12 @@ Pivort tables was used to summarize the data
 
   - HAT
 
+![image](https://github.com/user-attachments/assets/b8070dfc-4b35-42da-acd7-836d2521da0a)
+
+  - GLOVES
+
+
+
   
 
 
