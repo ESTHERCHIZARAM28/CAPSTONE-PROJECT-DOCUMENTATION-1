@@ -27,6 +27,10 @@ This is the documentation of my LITA capstone project. These project includes tw
 
 ----
 
+### PROJECT OVERVIEW
+
+----
+
 ### DATA SOURCES
 The primary source of data used in the projects are data.sales.cv and this is an open source data that can be freely downloaded from open source online such as kaggle or FRED or any other data respository site.
 
@@ -56,7 +60,7 @@ This analysis is meant to answer the followimg questions:
    - Revenue by month
 
 ----
-### PROJECT OVERVIEW
+
 
 
 
