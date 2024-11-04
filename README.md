@@ -82,6 +82,7 @@ Total Sales =SUM(H2:H9922)
 ````
 Average Sales =AVERAGE(H2:H9922)
 ````
+- TOTAL REVENUE BY REGION
 ````
 Total Revenue for East =SUMIF(D2:D9922,D2,H2:H9922)
 ````
@@ -94,6 +95,9 @@ Total Revenue For South =SUMIF(D2:D9922,D6645,H2:H9922)
  ````
 Total revenue for West =SUMIF(D2:D9922,D9909,H2:H9922)
 ````
+- TOTAL REVENUE BY PRODUCT
+````
+
 
 
 
