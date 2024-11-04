@@ -239,6 +239,12 @@ Pivort tables was used to summarize the data
 
   ![image](https://github.com/user-attachments/assets/eda2e051-ed21-45ed-80f6-1f57f0e5c7dd)
 
+  #### FILTER BY PRODUCT
+
+  - HAT
+
+  
+
 
 
 
