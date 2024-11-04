@@ -75,7 +75,9 @@ This analysis is meant to answer the followimg questions:
 ----
 
 ### DATA ANALYSIS
-
+```
+Total Sales =SUM(H2:H9922)
+```
 
 
 
