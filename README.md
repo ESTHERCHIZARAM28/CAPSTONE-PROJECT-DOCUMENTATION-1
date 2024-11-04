@@ -266,7 +266,11 @@ Pivort tables was used to summarize the data
 ![image](https://github.com/user-attachments/assets/b8275707-e76c-41af-b2cb-d7e10a0d8f36)
 
 
-### INFERENCES
+#### FILTER BY REGION
+
+ - EAST
+
+
 
 
 
