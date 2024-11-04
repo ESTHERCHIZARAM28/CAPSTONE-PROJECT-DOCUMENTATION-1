@@ -229,6 +229,15 @@ Pivort tables was used to summarize the data
 
   ![image](https://github.com/user-attachments/assets/85dff39f-6b16-43dd-94b0-fc755a2bba7c)
 
+
+  ### DATA VISUALIZATION
+  - Power BI was used for data visualization
+
+
+
+
+
+
   
 
 
