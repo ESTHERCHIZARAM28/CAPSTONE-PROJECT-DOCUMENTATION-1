@@ -301,10 +301,15 @@ In the year 2024, for the first eight months, Febuary also had the highest sales
 The total sales for year 2023 and first eight months of 2024 is Two Million, One Hundred and One Thounsand, Ninety.
 
 3. REGIONAL BREAKDOWN:
-	-EAST: Total sales is Four Hundred and Eighty-five Thousand, Nine Hundred and Twenty-five. The average sales is One Hundred and Ninety-six. The Sum of quantity sold is Twenty Thousand, Three Hundred and Sixty-one.
-For the east region sales was made on on March, July and Novembetr in the year 2023. In the year 2024 sales was made only on March and july.
+	-EAST: Total sales was Four Hundred and Eighty-five Thousand, Nine Hundred and Twenty-five. The average sales is One Hundred and Ninety-six. The Sum of quantity sold is Twenty Thousand, Three Hundred and Sixty-one.
+For the east region sales was made on on March, July and Novembetr on the year 2023. In the year 2024 sales was made only on March and july.
 
-	-NORTH: Total sales is Three Hundred and Eigty-seven thousand. The average sales was One Hundred and Fifty-six. The sum of quantity sold was Twelve Thousand, Four Hundred and Two. Sales was made only in January, May, and september 2023. In the year 2024, sales was made on January and May.
+	-NORTH: Total sales was Three Hundred and Eigty-seven thousand. The average sales was One Hundred and Fifty-six. The sum of quantity sold was Twelve Thousand, Four Hundred and Two. Sales was made only on January, May, and september 2023. In the year 2024, sales was made on January and May.
+
+	-SOUTH: Total sales was Nine Hundred and Twenty-seven Thousand, Eight Hundred and Twenty. The average sales was Three Hundred and Four. The sum of quantity sold was Twenty-four thousand Two Hundred and Nienty-eight. Sales was made only on Febuary, June and October 2023. In the year 2024, sales was made on Febuary and June.
+
+	-WEST: Total sales was Three Hundred Thousand, Three Hundred and Fourty-five . The average sales was One Hundred and Twenty-one. The sum of quantity sold was Eleven Thousand, Four Hundred. Sales was made only on April, August and December 2023. In the year 2024, sales was made on April and August.
+
 
   
    
