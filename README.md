@@ -302,7 +302,7 @@ The total sales for year 2023 and first eight months of 2024 is Two Million, One
 
 3. REGIONAL BREAKDOWN:
 	-EAST: Total sales was Four Hundred and Eighty-five Thousand, Nine Hundred and Twenty-five. The average sales is One Hundred and Ninety-six. The Sum of quantity sold is Twenty Thousand, Three Hundred and Sixty-one.
-For the east region sales was made on on March, July and Novembetr on the year 2023. In the year 2024 sales was made only on March and july.
+For the east region sales was made on on March, July and November on the year 2023. In the year 2024 sales was made only on March and july.
 
 	-NORTH: Total sales was Three Hundred and Eigty-seven thousand. The average sales was One Hundred and Fifty-six. The sum of quantity sold was Twelve Thousand, Four Hundred and Two. Sales was made only on January, May, and september 2023. In the year 2024, sales was made on January and May.
 
@@ -328,7 +328,11 @@ The lowest selleing product is jacket with Five Thousand Four Hundred and Fifty-
 
 
 ### CONCLUSION
-After the analysis I found out that all of the products are excluded for som regions. Strategic marketing and Advertisment should be adopted to introduced some of these products to the regions where they are barely used.This will help to increase the overall sales.
+In summary, the north region has the highest total sales. 
+
+Products like Gloves, Shoes and Socks are only sold out in the South region; Hat, Shirt and Jacket are sold out only in the East; Hat,Gloves,Shoe and Socks are sold out only in the West; Hat,Shirt and Jacket are only sold out in the North region. This means that most of the product has no sales in some regions.
+
+I recommend that, strategic marketing and Advertisment should be adopted to introduced some of these products to the regions where they are barely used.This will help to increase the overall sales.
 
 
 
