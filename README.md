@@ -330,7 +330,7 @@ The lowest selleing product is jacket with Five Thousand Four Hundred and Fifty-
 ### CONCLUSION
 In summary, the north region has the highest total sales. 
 
-Products like Gloves, Shoes and Socks are only sold out in the South region; Hat, Shirt and Jacket are sold out only in the East; Hat,Gloves,Shoe and Socks are sold out only in the West; Hat,Shirt and Jacket are only sold out in the North region. This means that most of the product has no sales in some regions.
+Products like Gloves, Shoes and Socks are sold out in the South region; Hat, Shirt and Jacket are sold out in the East; Hat,Gloves,Shoe and Socks are sold out in the West; Hat,Shirt and Jacket are sold out in the North region. This means that most of the product has no sales in some regions.
 
 I recommend that, strategic marketing and Advertisment should be adopted to introduced some of these products to the regions where they are barely used.This will help to increase the overall sales.
 
